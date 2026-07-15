@@ -1,0 +1,1 @@
+const contarVogais = (str) => (str.match(/[aeiou]/gi) || []).length;

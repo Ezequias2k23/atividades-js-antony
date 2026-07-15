@@ -1,0 +1,1 @@
+const inverter = (str) => str.split("").reverse().join("");

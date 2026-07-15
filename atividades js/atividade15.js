@@ -1,0 +1,1 @@
+const soma = (...numeros) => numeros.reduce((a, b) => a + b, 0);

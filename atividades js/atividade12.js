@@ -1,0 +1,1 @@
+const filtrar = (pred, lista) => lista.filter(pred);

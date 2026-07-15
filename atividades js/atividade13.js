@@ -1,0 +1,1 @@
+const reduzir = (fn, lista, inicial) => lista.reduce(fn, inicial);

@@ -1,0 +1,1 @@
+const aplicar = (fn, lista) => lista.map(fn);

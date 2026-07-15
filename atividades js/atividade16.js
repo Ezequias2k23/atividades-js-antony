@@ -1,0 +1,1 @@
+const maiorMenor = (arr) => ({ maior: Math.max(...arr), menor: Math.min(...arr) });

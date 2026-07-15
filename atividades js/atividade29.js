@@ -1,0 +1,1 @@
+const coroDeAnimais = (animais) => animais.map(a => `${a.nome}: ${a.emitirSom()}`);

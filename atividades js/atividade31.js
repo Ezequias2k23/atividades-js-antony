@@ -1,0 +1,1 @@
+Retangulo.saoEquivalentes = (r1, r2) => r1.area() === r2.area();
